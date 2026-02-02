@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html class="notranslate" translate="no" lang="en" oncontextmenu="return false;">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="../favicon.ico">
+  <title>sample_video.mp4</title>
+  <link href="../dependencies/css/video.viewer.css" rel="stylesheet">
+  <script src="../dependencies/js/video.viewer.js"></script>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+      background: #000;
+    }
+
+    #video-container {
+      width: 100%;
+      height: 100vh;
+      position: relative;
+    }
+
+    .video-js {
+      width: 100% !important;
+      height: 100% !important;
+    }
+  </style>
+</head>
+<body>
+  <div id="video-container">
+      <video id="my-player" class="video-js vjs-fill" controls controlsList="nodownload" oncontextmenu="return false;" preload="auto" poster="" data-setup='{}'>
+          <source src="sаmplе_video.mp4" type="video/mp4">
+      </video>
+  </div>
+  <script>
+    var player = videojs('my-player', {
+      fill: true
+    });
+  </script>
+</body>
+</html>
