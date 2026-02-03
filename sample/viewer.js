@@ -3045,7 +3045,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   imageResourcesPath: {
-    value: "../dependencies/images/",
+    value: "../assets/images/",
     kind: OptionKind.VIEWER
   },
   maxCanvasPixels: {
@@ -3149,7 +3149,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   standardFontDataUrl: {
-    value: "../dependencies/fonts/",
+    value: "../assets/fonts/",
     kind: OptionKind.API
   },
   verbosity: {
@@ -3161,7 +3161,7 @@ const defaultOptions = {
     kind: OptionKind.WORKER
   },
   workerSrc: {
-    value: "../dependencies/js/pdf.worker.js",
+    value: "../assets/js/pdf.worker.js",
     kind: OptionKind.WORKER
   }
 };
@@ -3179,7 +3179,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER
   };
   defaultOptions.sandboxBundleSrc = {
-    value: "../dependencies/js/pdf.sandbox.js",
+    value: "../assets/js/pdf.sandbox.js",
     kind: OptionKind.VIEWER
   };
 }
