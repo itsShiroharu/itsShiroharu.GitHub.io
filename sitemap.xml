@@ -13,52 +13,52 @@
     http://www.google.com/schemas/sitemap-video/1.1/sitemap-video.xsd">
 <url>
   <loc>https://shiroharu.eu.org/</loc>
-  <lastmod>2026-02-03T04:39:38+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:38+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://shiroharu.eu.org/assets</loc>
-  <lastmod>2026-02-03T04:39:39+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shiroharu.eu.org/sample</loc>
-  <lastmod>2026-02-03T04:39:39+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shiroharu.eu.org/robots.txt</loc>
-  <lastmod>2026-02-03T04:39:39+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shiroharu.eu.org/assets/css</loc>
-  <lastmod>2026-02-03T04:39:40+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shiroharu.eu.org/assets/fonts</loc>
-  <lastmod>2026-02-03T04:39:40+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shiroharu.eu.org/assets/images</loc>
-  <lastmod>2026-02-03T04:39:41+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shiroharu.eu.org/assets/js</loc>
-  <lastmod>2026-02-03T04:39:41+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shiroharu.eu.org/sample/sample_document.pdf</loc>
-  <lastmod>2026-02-03T04:40:09+00:00</lastmod>
+  <lastmod>2026-02-01T04:40:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shiroharu.eu.org/sample/sample_image.jpg</loc>
-  <lastmod>2026-02-03T04:39:41+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:41+00:00</lastmod>
   <priority>0.64</priority>
   <image:image>
     <image:loc>https://shiroharu.eu.org/sample/sаmplе_image.jpg</image:loc>
@@ -66,7 +66,7 @@
 </url>
 <url>
   <loc>https://shiroharu.eu.org/sample/sample_video.mp4</loc>
-  <lastmod>2026-02-03T04:39:41+00:00</lastmod>
+  <lastmod>2026-02-01T04:39:41+00:00</lastmod>
   <priority>0.64</priority>
   <video:video>
     <video:thumbnail_loc>https://shiroharu.eu.org/assets/images/thumbnail.jpg</video:thumbnail_loc>
