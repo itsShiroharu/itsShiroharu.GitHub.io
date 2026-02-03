@@ -3045,7 +3045,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   imageResourcesPath: {
-    value: "../assets/images/",
+    value: "../images/",
     kind: OptionKind.VIEWER
   },
   maxCanvasPixels: {
@@ -3101,7 +3101,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   cMapUrl: {
-    value: "../assets/cmaps/",
+    value: "../cmaps/",
     kind: OptionKind.API
   },
   disableAutoFetch: {
@@ -3149,7 +3149,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   standardFontDataUrl: {
-    value: "../assets/fonts/",
+    value: "../fonts/",
     kind: OptionKind.API
   },
   verbosity: {
@@ -3161,7 +3161,7 @@ const defaultOptions = {
     kind: OptionKind.WORKER
   },
   workerSrc: {
-    value: "../assets/js/pdf.worker.js",
+    value: "./pdf.worker.js",
     kind: OptionKind.WORKER
   }
 };
@@ -3179,7 +3179,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER
   };
   defaultOptions.sandboxBundleSrc = {
-    value: "../assets/js/pdf.sandbox.js",
+    value: "./pdf.sandbox.js",
     kind: OptionKind.VIEWER
   };
 }
@@ -13759,4 +13759,3 @@ if (document.readyState === "interactive" || document.readyState === "complete")
 
 /******/ })()
 ;
-//# sourceMappingURL=viewer.js.map
