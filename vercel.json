@@ -3,7 +3,7 @@
   "trailingSlash": false,
   "headers": [
     {
-      "source": "/(.*)(md|txt|log|json|xml|csv|ttf|pfb|woff2)$",
+      "source": "/(.*)(md|txt|log|json|xml|csv|properties|ttf|pfb|woff2)$",
       "headers": [
         {
           "key": "Content-Type",
