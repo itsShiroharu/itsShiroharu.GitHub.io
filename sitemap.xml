@@ -2,15 +2,12 @@
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="
     http://www.sitemaps.org/schemas/sitemap/0.9
     http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
     http://www.google.com/schemas/sitemap-image/1.1
-    http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd
-    http://www.google.com/schemas/sitemap-video/1.1
-    http://www.google.com/schemas/sitemap-video/1.1/sitemap-video.xsd">
+    http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
 <url>
   <loc>https://shiroharu.eu.org/</loc>
   <lastmod>2026-02-01T04:39:38+00:00</lastmod>
@@ -63,16 +60,5 @@
   <image:image>
     <image:loc>https://shiroharu.eu.org/sample/sаmplе_image.jpg</image:loc>
   </image:image>
-</url>
-<url>
-  <loc>https://shiroharu.eu.org/sample/sample_video.mp4</loc>
-  <lastmod>2026-02-01T04:39:41+00:00</lastmod>
-  <priority>0.64</priority>
-  <video:video>
-    <video:thumbnail_loc>https://shiroharu.eu.org/assets/images/thumbnail.jpg</video:thumbnail_loc>
-    <video:title>sample_video.mp4</video:title>
-    <video:description>sample_video.mp4</video:description>
-    <video:content_loc>https://shiroharu.eu.org/sample/sаmplе_video.mp4</video:content_loc>
-  </video:video>
 </url>
 </urlset>
