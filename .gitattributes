@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+*.html linguist-vendored
+*.css linguist-vendored
+*.ts linguist-vendored
+*.md linguist-vendored
+
+public/* linguist-vendored
+lib/* linguist-vendored
+node_modules/* linguist-vendored
+next/* linguist-vendored

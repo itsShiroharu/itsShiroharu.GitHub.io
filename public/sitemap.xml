@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://shiroharu.eu.org/</loc>
+    <lastmod>2026-07-06T17:24:40+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://shiroharu.eu.org/license/</loc>
+    <lastmod>2026-07-06T17:24:40+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://shiroharu.eu.org/tools/minecraft/avatar-render/</loc>
+    <lastmod>2026-07-06T17:24:40+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://shiroharu.eu.org/tools/minecraft/slimefun-calculator/</loc>
+    <lastmod>2026-07-06T17:24:40+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://shiroharu.eu.org/tools/minecraft/skin-hosting/</loc>
+    <lastmod>2026-07-06T17:24:40+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://shiroharu.eu.org/tools/growtopia/exp-calculator/</loc>
+    <lastmod>2026-07-06T17:24:40+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://shiroharu.eu.org/tools/stardew-valley/color-converter/</loc>
+    <lastmod>2026-07-06T17:24:40+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://shiroharu.eu.org/tools/stardew-valley/save-reader/</loc>
+    <lastmod>2026-07-06T17:24:40+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+</urlset>

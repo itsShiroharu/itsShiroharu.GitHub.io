@@ -1,0 +1,59 @@
+{
+  "name": "itsshiroharu.github.io",
+  "version": "1.0.0",
+  "description": "A personal website of Shengwei Xiong. It uses Next v14 and React v18. It showcases Shengwei's own project, as well as a fork project of other web applications in JavaScript.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build-open": "opennextjs-cloudflare build",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "deploy": "opennextjs-cloudflare build && wrangler deploy",
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts"
+  },
+  "author": {
+    "name": "Shengwei Xiong",
+    "email": "contact@shiroharu.eu.org",
+    "url": "https://shiroharu.eu.org"
+  },
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "@supabase/supabase-js": "2.108.2",
+    "lucide-react": "1.22.0",
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@opennextjs/cloudflare": "1.15.1",
+    "wrangler": "4.112.0"
+  },
+  "keywords": [
+    "Shiroharu",
+    "Shir0haru",
+    "itsShiroharu",
+    "Chris Xiong",
+    "Shengwei Xiong",
+    "熊聖偉",
+    "Chris",
+    "Shengwei",
+    "聖偉",
+    "Xiong",
+    "熊",
+    "shiroharu.eu.org",
+    "www.shiroharu.eu.org",
+    "Novice Developer",
+    "Full-Stack Developer",
+    "Web Developer",
+    "Web Application Developer",
+    "Portfolio",
+    "Personal Website",
+    "Next.js v14",
+    "React v18",
+    "JavaScript",
+    "Tools",
+    "Minecraft",
+    "Growtopia",
+    "Stardew Valley"
+  ]
+}
