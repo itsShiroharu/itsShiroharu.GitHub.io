@@ -284,12 +284,12 @@ export default function MainPage() {
           <div className="hero-text">
             <div className="eyebrow">shiroharu.eu.org</div>
             <h1>
-              Novice Developer.
+              Junior Developer.
               <br />
               <span className="grad">Doubling down on JavaScript.</span>
             </h1>
             <p className="lede">
-              I'm Shengwei Xiong. Known online as Shiroharu and itsShiroharu. I am a novice developer. I'm passionate about creating simple–yet efficient and user-friendly web applications.
+              I'm Shengwei Xiong. Known online as Shiroharu and itsShiroharu. I am a Junior Developer. I'm passionate about creating simple–yet efficient and user-friendly web applications.
             </p>
             <div className="cta-row">
               <a href="#work" className="btn btn-primary">

@@ -4,7 +4,7 @@
 
 **itsShiroharu.GitHub.io is a repository containing the personal website of Shengwei Xiong. It uses Next v14 and React v18. It showcases my own, as well as a fork project of other web applications in JavaScript.** 
 
-**Hi! I'm Shengwei Xiong. Known online as Shiroharu and itsShiroharu. I am a novice developer. I'm passionate about creating simple–yet efficient and user-friendly web applications.**
+**Hi! I'm Shengwei Xiong. Known online as Shiroharu and itsShiroharu. I am a Junior Developer. I'm passionate about creating simple–yet efficient and user-friendly web applications.**
 
 </div>
 
